@@ -75,8 +75,7 @@ I am continuously learning, improving, and pushing myself to grow every day.
  📫 Contact Me
 
 📧 Email: mahmoud9zahra@gmail.com  
-💼 LinkedIn:
-   FaceBook: https://www.facebook.com/share/14VoLPLdfyy/
+🖥 FaceBook: https://www.facebook.com/share/14VoLPLdfyy/
 
 
 
