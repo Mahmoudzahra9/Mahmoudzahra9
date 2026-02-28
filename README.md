@@ -10,9 +10,9 @@
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
+
+👨‍💻 About Me
 
 🎓 I am a second-year student at HIT Academy  
 💻 Passionate about Software Engineering and problem solving  
@@ -21,64 +21,62 @@
 🔥 Worked on multiple academic and personal projects  
 🎯 My goal is to become a top-tier Software Engineer  
 
----
 
-## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+🛠️ Tech Stack
+
+💻 Programming Languages
 - Java
 - Python
 - Dart (Flutter)
 
-### 🧠 Concepts & Fields
+🧠 Concepts & Fields
 - Object-Oriented Programming (OOP)
 - Artificial Intelligence with Python
 - Data Structures & Algorithms (learning phase)
 - Problem Solving
 
-### 📱 Currently Learning
+📱 Currently Learning
 - Flutter
 - Mobile App Development
 - Clean Code Practices
 
----
 
-## 📂 Projects
+
+📂 Projects
 
 Here are some of the projects I’ve worked on:
 
 - 🔹 Java OOP Applications
-- 🔹 Python Automation Scripts
 - 🔹 AI-based Python Projects
 - 🔹 Console-based Systems
 - 🔹 Currently building Flutter Apps
 
-(You can replace this section later with real project links.)
 
----
 
-## 📊 GitHub Stats
+
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
----
 
-## 🌟 Vision
+
+🌟 Vision
 
 I believe software engineering is not just about writing code —  
 it’s about building solutions that impact people’s lives.
 
 I am continuously learning, improving, and pushing myself to grow every day.
 
----
 
-## 📫 Contact Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: (Add your LinkedIn link)
+ 📫 Contact Me
 
----
+📧 Email: mahmoud9zahra@gmail.com  
+💼 LinkedIn:
+
+
 
 ⭐ If you like my work, feel free to follow me and check out my repositories!
